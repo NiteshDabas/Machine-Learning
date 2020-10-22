@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine Learning
+# Statistical Machine-Learning
+Statistics and Machine Learning
