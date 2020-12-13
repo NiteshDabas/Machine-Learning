@@ -7,12 +7,12 @@
 
 ## Analysis Results<br/>
 
-<ins>**K-means Algorithm**</ins>: <ins>Four Clusters.</ins>
+<ins>**K-means Algorithm**</ins>: Four Clusters<br/>
 
 ![Figure 1](https://github.com/NiteshDabas/Statistics-and-Machine-Learning/blob/main/Velib_Paris_A-Bike-Sharing-System/Station-Clusters/Station_clusters_from_K-means_clustering_method.png)
 
-<ins>**Hierarchical Clustering Algorithm**</ins>: <ins>Four Clusters.</ins>
+<ins>**Hierarchical Clustering Algorithm**</ins>: Four Clusters<br/>
 ![Figure 2](https://github.com/NiteshDabas/Statistics-and-Machine-Learning/blob/main/Velib_Paris_A-Bike-Sharing-System/Station-Clusters/Station_clusters_from_Hierarchical_Ward_distance_clustering_method.png)
 
-<ins>**Hierarchical Clustering Algorithm**</ins>: <ins>Three Clusters.</ins>
+<ins>**Hierarchical Clustering Algorithm**</ins>: Three Clusters<br/>
 ![Figure 3](https://github.com/NiteshDabas/Statistics-and-Machine-Learning/blob/main/Velib_Paris_A-Bike-Sharing-System/Station-Clusters/Station_clusters_from_Hierarchical_Complete_distance_clustering_method.png)
