@@ -9,4 +9,5 @@
 
 <ins>**Clusters using K-means Algorithm**</ins>:
 
-![Figure 1](https://github.com/NiteshDabas/Statistics-and-Machine-Learning/blob/readme/Velib_Paris_A-Bike-Sharing-System/Station-Clusters/Station_clusters_from_K-means_clustering_method.png)
+![Figure 1](https://github.com/NiteshDabas/Statistics-and-Machine-Learning/blob/main/Velib_Paris_A-Bike-Sharing-System/Station-Clusters/Station_clusters_from_K-means_clustering_method.png)
+
